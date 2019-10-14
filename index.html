@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="stylesheet/style.css" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <title>Image File Uploader</title>
+</head>
+<body>
+  <div class="text-center">
+    <h1 class="title">Your Image Uploader</h1>
+    <h5 class="sub_title">You can upload your favorite images</h5>
+    <input type="file" id="uploader" multiple accept="image/ *" style="display: none" multiple>
+    <label for="uploader" id="removeButton">Select a file ...</label>
+  </div>
+  <div class="container">
+    <ul class="images" id="result"></ul>
+    <div id="new-name-images"></div>
+  </div>
+
+  <div id="modal_window" class="modal">
+    <div class="modal-content">
+      <span id="image-index" style="display: none;"></span>
+      <span id="close">&times;</span>
+      <p id="text-input"></p>
+     <div>
+        <button id='consent' type="button" class="button-consent" data-dismiss="modal">Yes</button>
+        <button id="cancel" type="button" class="button-cancel">No</button>
+      </div>
+    </div>
+  </div>
+
+</body>
+<script src="js/displayImages.js"></script>
+<script src="js/removeImage.js"></script>
+<script src="js/uploadImages.js"></script>
+</html>
