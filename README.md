@@ -1,3 +1,4 @@
+<details>
 <summary>Test</summary>
 
 | Заголовок 1 | Заголовок 2 |
