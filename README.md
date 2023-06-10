@@ -20,8 +20,8 @@
 |           | landing            | [malta/landing-ci.yml]{https://git.wldev.app/gitlabci/ci-cd/-/blob/master/malta/landing-ci.yml}| |
 |           | Site Files         | [malta/files-ci.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/malta/files-ci.yml)|   |
 |           | tradingview        | [malta/tradingview-ci.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/malta/tradingview-ci.yml)| |
-
-
+</details>
+<details>
 <summary>microservices/projects</summary>
 
 | Progects   | Services                | CI/CD                                                                                       | Dockerfile |
@@ -35,8 +35,8 @@
 |            | bo                      |[]()                                                                                                     ||
 |            | gateway                 |[gitlab-ci/microservices/gateway-ci.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/gitlab-ci/microservices/gateway-ci.yml)                                                                                                                    || 
 |            | members                 |[gitlab-ci/microservices/members-ci.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/gitlab-ci/microservices/members-ci.yml)                                                                                                                    ||
-
-
+</details>
+<details>
 <summary>microservices/projects</summary>
 
 | Progects   | Services                | CI/CD     | Dockerfile     |
@@ -50,8 +50,8 @@
 |            | bo                      |[]()       |[]()            |
 |            | gateway                 |[]()       |[]()            |
 |            | members                 |[]()       |[]()            |
-
-
+</details>
+<details>
 <summary>microservices</summary>
 
 | Progects   | Services                | CI/CD     | Dockerfile     |
@@ -77,8 +77,8 @@
 | starter    | starter-ms              |[]()       |[]()            |
 | chaincore  |                         |[]()       |[]()            |
 | manifest   |                         |[]()       |[]()            |
-
-
+</details>
+<details>
 <summary>microservices/projects</summary>
 
 | Progects              | Services               | CI/CD                                    | Dockerfile     |
@@ -89,8 +89,8 @@
 |                       | service-data-controller|[gitlab-ci/kyrrex-bridge-service-ci.yml]()|[ci-cd/dockerfile/kyrrex-bridge-service/Dockerfile](https://git.wldev.app/gitlabci/ci-cd/-/tree/master/malta/dockerfile/kyrrex-bridge-service)          |
 |                       | service-tickers-volumes|[gitlab-ci/kyrrex-bridge-service-ci.yml]()|[ci-cd/dockerfile/kyrrex-bridge-service/Dockerfile](https://git.wldev.app/gitlabci/ci-cd/-/tree/master/malta/dockerfile/kyrrex-bridge-service)          |
 |                       | websocket-server       |[gitlab-ci/websocket-server-ci.yml]()     |[ci-cd/dockerfile/kyrrex-bridge-service/Dockerfile](https://git.wldev.app/gitlabci/ci-cd/-/tree/master/malta/dockerfile/kyrrex-bridge-service)          |
-
-			
+</details>
+<details>			
 <summary>Universal Connector</summary>
 
 | Progects            | Services                  | CI/CD     | Dockerfile                                                                           |
@@ -98,8 +98,8 @@
 | Universal Connector | SpiderD                   |[gitlab-ci/spiderd-ci.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/gitlab-ci/spiderd-ci.yml)                  |[ci-cd/dockerfile/spiderd/Dockerfile](https://git.wldev.app/gitlabci/ci-cd/-/tree/master/malta/dockerfile/spiderd)            |
 |                     | Spiderd-balancer          |[]()       |[]()                                                                                  |
 |                     | Spiderd-translator-kyrrex |[gitlab-ci/spiderd-ci.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/gitlab-ci/spiderd-ci.yml)                  |[ci-cd/dockerfile/spiderd/Dockerfile](https://git.wldev.app/gitlabci/ci-cd/-/tree/master/malta/dockerfile/spiderd)            |
-
-			
+</details>
+<details>			
 <summary>Affiliate</summary>
 
 | Progects | Services           | CI/CD          | Dockerfile                                                                           |
@@ -114,15 +114,15 @@
 | db       |                    |[]()            |[]()                                                                                  |
 | docker   |                    |[]()            |[]()                                                                                  |
 | front    |                    |[gitlab-ci/affiliate-front-ci.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/gitlab-ci/affiliate-front-ci.yml)                                             |[]()                                                                                  |
-
-
+</details>
+<details>
 <summary>Bots</summary>
 
 | Progects | Services           | CI/CD          | Dockerfile                                                                           |
 | ---------| -----------        |-----------     |-----------                                                                           |
 | Bots     | wl-telebots        | [gitlab-ci/bots-wl-ci.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/gitlab-ci/bots-wl-ci.yml)| [ci-cd/dockerfile/bots/Dockerfile](https://git.wldev.app/gitlabci/ci-cd/-/tree/master/dockerfile/bots)                                         |			
-			
-
+</details>			
+<details>
 <summary>wl</summary>
 
 | Progects         | Services      | CI/CD                                                                              |Dockerfile      |
