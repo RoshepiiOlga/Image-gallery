@@ -156,7 +156,7 @@
 
 </details>
 
-<h1>Необходимо уточнение</h1>
+<h2>Необходимо уточнение</h2>
 <details>
 <summary>cryptoaml</summary>
 
