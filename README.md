@@ -49,6 +49,8 @@
 | manifest   |                         |[]()       |[]()            |
 </details>
 <details>
+ ##Необходимо уточнение
+  
 <summary>microservices/projects</summary>
 
 | Progects   | Services                | CI/CD                                                                                       | Dockerfile |
