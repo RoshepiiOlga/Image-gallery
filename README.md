@@ -184,9 +184,8 @@
 | processing |             |[ci-cd/processing/crypto-processing-psim-ci.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/processing/crypto-processing-psim-ci.yml)               |[ci-cd/dockerfile/crypto-processing/Dockerfile](https://git.wldev.app/gitlabci/ci-cd/-/tree/master/dockerfile/crypto-processing)                                 |
 |            |             |[ci-cd/processing/deposit-processing-blockbook.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/processing/deposit-processing-blockbook.yml)            |[ci-cd/dockerfile/deposit-processing/Dockerfile](https://git.wldev.app/gitlabci/ci-cd/-/tree/master/dockerfile/deposit-processing)                                 |
 |            |             |[ci-cd/processing/deposit-processing-router.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/processing/deposit-processing-router.yml)               |[ci-cd/dockerfile/deposit-processing/Dockerfile](https://git.wldev.app/gitlabci/ci-cd/-/tree/master/dockerfile/crypto-processing)                                  |
-|            |             |[ci-cd/processing/fiat-core-ci.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/processing/fiat-core-ci.yml) 
-                                             |[]()             |
-|            |             |[ci-cd/processing/fiat-gateway-ci.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/processing/fiat-gateway-ci.yml)                                         |[]()             |
+|            |             |[ci-cd/processing/fiat-core-ci.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/processing/fiat-core-ci.yml)||
+|            |             |[ci-cd/processing/fiat-gateway-ci.yml](https://git.wldev.app/gitlabci/ci-cd/-/blob/master/processing/fiat-gateway-ci.yml)| |
 
 </details>
 
